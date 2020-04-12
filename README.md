@@ -3,13 +3,13 @@ Select something and press ctrrl+alt+g to google it instantly on linux
 
 Setup
 
-git clone https://github.com/rietesh/google-keybinding.git
+[1] git clone https://github.com/rietesh/google-keybinding.git
 
-cd google-keybinding
+[2] cd google-keybinding
 
-chmod +x setup.sh
+[3] chmod +x setup.sh
 
-sudo ./setup.sh 
+[4] sudo ./setup.sh 
 (Installs xbindkeys and xclip packages and also moves necessary config files to home directory)
 
 Done!!!
